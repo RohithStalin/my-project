@@ -1,0 +1,26 @@
+.footerHeading {
+  font-family: Mier B;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+}
+.items {
+  font-family: Mier B;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  text-align: left;
+}
+.image {
+  width: 100px;
+  height: 82.33px;
+}
+.lastFooter {
+  font-family: Mier B;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  text-align: left;
+  color: #001b39;
+}
