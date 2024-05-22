@@ -1,0 +1,97 @@
+.heading {
+  color: red;
+  margin: 20px;
+  text-align: left;
+  padding-left: 55px;
+  font-family: Mier B;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+}
+.container {
+  padding-left: 100px;
+}
+
+.subHeading {
+  font-family: "Mier B", sans-serif;
+
+  font-weight: 600;
+
+  font-size: 22px;
+
+  line-height: 33px;
+
+  text-align: left;
+}
+
+.description {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 28.5px;
+  text-align: left;
+  color: #001b39cc;
+  padding-right: 80px;
+}
+.rejectionScenario {
+  font-family: Mier B;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  text-align: left;
+  color: #001b39;
+  padding-left: 70px;
+}
+.rejectionDescripton {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 28.5px;
+  text-align: left;
+  color: #001b39cc;
+  padding-left: 80px;
+  padding-bottom: 50px;
+}
+.list {
+  margin-bottom: 20px;
+}
+.termsHeading {
+  font-family: Mier B;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  text-align: left;
+  color: #001b39;
+}
+.termsDescription {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 28.5px;
+  text-align: left;
+  color: #001b39cc;
+  padding-left: 60px;
+}
+.mySpan {
+  color: red;
+  font-weight: bold;
+}
+.Services {
+  padding-left: 60px;
+}
+.termsContainer {
+  padding-left: 60px;
+  padding-right: 80px;
+}
+.card {
+  width: 860px;
+  height: 2182px;
+  top: 219px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;
+}
+.rejectionContainer {
+  padding: 10px 0px;
+}

@@ -1,0 +1,51 @@
+.title {
+  font-family: Mier B;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+  color: red;
+}
+.text {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 28.5px;
+  text-align: left;
+  color: #001b3999;
+}
+.redText {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 28.5px;
+  text-align: left;
+  color: red;
+}
+.rules {
+  font-family: Mier B;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  text-align: left;
+  color: #001b39;
+}
+.rulesDescription {
+  font-family: Mier B;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 28.5px;
+  text-align: left;
+  color: #001b39cc;
+}
+.wellWishMessage {
+  font-family: Mier B;
+  font-size: 25px;
+  font-weight: 500;
+  text-align: center;
+  color: #001b39cc;
+  padding: 15px;
+}
+.card {
+  padding: 50px;
+}

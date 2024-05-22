@@ -1,0 +1,68 @@
+.blackCaption {
+  font-family: Mier B;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 29.35px;
+  text-align: left;
+  color: #001b39;
+}
+.redCaption {
+  font-family: Mier B;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 29.35px;
+  text-align: left;
+  color: red;
+}
+.content {
+  font-family: Mier B;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #001b39b2;
+}
+.input .select {
+  width: 365px;
+  height: 45px;
+  top: 306px;
+  left: 897px;
+  gap: 6px;
+  border-radius: 6px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  padding: 15px;
+  margin-top: 20px;
+}
+.fields {
+  width: 365px;
+  height: 541.84px;
+  top: 208px;
+  left: 897px;
+  gap: 5px;
+  opacity: 0px;
+  margin-top: 15px;
+}
+.card {
+  width: 427px;
+  height: 614px;
+  top: 188px;
+  left: 869px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  padding: 25px;
+}
+.button {
+  width: 250.67px;
+  height: 36.84px;
+  top: 713px;
+  left: 961px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  border: 0.5px 0px 0px 0px;
+  opacity: 0px;
+  background-color: red;
+  color: white;
+}
