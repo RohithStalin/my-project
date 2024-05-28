@@ -1,12 +1,18 @@
 import "./App.css";
-import MapPractice from "./components/MapPractice";
+import MapExample from "./components/MapExample";
+// import StateManagement from "./components/StateManagement";
+// import MapPractice from "./components/MapPractice";
 // import SignUp from "./form/SignUp";
+// import BlogForm from "./components/BlogForm";
 function App() {
   return (
     <div>
       <div>
         {/* <SignUp /> */}
-        <MapPractice />
+        {/* <MapPractice /> */}
+        {/* <BlogForm /> */}
+        {/* <StateManagement /> */}
+        <MapExample />
       </div>
     </div>
   );
